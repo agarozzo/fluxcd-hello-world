@@ -7,5 +7,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/agarozzo/fluxcd-hellow-world
-
+  url: https://github.com/agarozzo/fluxcd-hello-world
