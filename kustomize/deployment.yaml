@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: ubuntu-sleep2
+  name: ubuntu-sleep
 spec:
   containers:
   - name: ubuntu
